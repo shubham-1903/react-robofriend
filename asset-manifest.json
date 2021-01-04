@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-robofriend/static/css/main.53e1b3b5.chunk.css",
+    "main.js": "/react-robofriend/static/js/main.c5952bd5.chunk.js",
+    "main.js.map": "/react-robofriend/static/js/main.c5952bd5.chunk.js.map",
+    "runtime-main.js": "/react-robofriend/static/js/runtime-main.9303093f.js",
+    "runtime-main.js.map": "/react-robofriend/static/js/runtime-main.9303093f.js.map",
+    "static/js/2.d541729d.chunk.js": "/react-robofriend/static/js/2.d541729d.chunk.js",
+    "static/js/2.d541729d.chunk.js.map": "/react-robofriend/static/js/2.d541729d.chunk.js.map",
+    "static/js/3.9b3da037.chunk.js": "/react-robofriend/static/js/3.9b3da037.chunk.js",
+    "static/js/3.9b3da037.chunk.js.map": "/react-robofriend/static/js/3.9b3da037.chunk.js.map",
+    "index.html": "/react-robofriend/index.html",
+    "static/css/main.53e1b3b5.chunk.css.map": "/react-robofriend/static/css/main.53e1b3b5.chunk.css.map",
+    "static/js/2.d541729d.chunk.js.LICENSE.txt": "/react-robofriend/static/js/2.d541729d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-robofriend/static/media/design-tools.e4da4670.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9303093f.js",
+    "static/js/2.d541729d.chunk.js",
+    "static/css/main.53e1b3b5.chunk.css",
+    "static/js/main.c5952bd5.chunk.js"
+  ]
+}
